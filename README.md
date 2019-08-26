@@ -14,4 +14,4 @@ Counter application example with React Native and Redux
 2. Run `npm start`
 3. Run ExpoApp in your smartphone
 4. Scan QR code from console
-5. See the app runing in your ExpoApp
+5. See the app running in your ExpoApp
